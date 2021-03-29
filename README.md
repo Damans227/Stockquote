@@ -50,4 +50,4 @@
 
 ## What the app looks like
 
-![screenshot] (https://github.com/Damans227/Stockquote/blob/main/Screenshots/homescreen.png)
+![screenshot] (https://raw.githubusercontent.com/Damans227/Stockquote/main/Screenshots/homescreen.png =500x500)
