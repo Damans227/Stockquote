@@ -28,8 +28,22 @@
 
  ## Features
 
- - A containerized application, that can be hosted quickly in no time in a public or private cloud infrastructure. 
- - Easy to understand code built following MVC design pattern. 
+ - Easy to understand code which is built following MVC design pattern. 
  - Simple and straightforward User Interface. 
+ - Can be hosted as a micro-service in a container. Making it easier to deploy the app over cloud. 
 
  ## Future features
+
+ - Code refactoring (Minimizing the workload in controllers).
+ - Implement auto refresh.
+ - Implement user profiles and portfolio management. 
+ - Make it small screen compatible.
+
+ ## Dependencies 
+
+ - Yahoo Finance Java API
+ - Bootstrap 4
+ - JSTL 
+ - Enterprise Java
+ - JSP and Servlets
+ - Docker container runtime
