@@ -2,6 +2,10 @@
 
  Stockquote is a java based web application which leverages [Yahoo-Finance API][Yahoo-Finance] to request detailed information, some statistics and historical quotes on stocks. Stockquote has a simple and easy to follow user interface built using bootstrap 4. 
 
+ <blockquote>
+  Here is a live version of the [Stockquote app][Stockquote]. 
+ </blockquote>
+
 ## How to run the application
 
 1. In order to get this application up and running quickly, you will need to have docker run time installed on your computer. 
@@ -12,6 +16,7 @@
 4. The application should be up and running now on the following `URL: http://localhost:8091/stockquote/`
 
  [Yahoo-Finance]: https://financequotes-api.com/
+ [Stockquote]: http://142.93.48.18:8091/stockquote/
 
  ## How to use Stockquote
 
