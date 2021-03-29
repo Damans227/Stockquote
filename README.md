@@ -19,4 +19,15 @@
  2.  Enter a valid ticker symbol, such as 'GOOG' and hit Search. 
  3.  You will see the current price of the stock under 'Stock Details' section. 
  4.  On the far right of stock details section, click on 'Quick History' in green color to view the historical data of the stock. 
- 5. 
+ 5.  Similarly, you can look up Weekly and Monthly details of a given stock as well. In order to dos so, simply click on the button called "Advanced Search" on the top right corner. 
+
+ ## User Stories
+
+ - A user can find the current price of any given stock. 
+ - A user can view Weekly/ Monthly historical data of a stock. 
+
+ ## Features
+
+ - A containerized application, which makes it easier to host the application quickly in a public or private cloud infrastructure. 
+ - Easy to understand code built following MVC design pattern. 
+ - Simple and straightforward User Interface. 
