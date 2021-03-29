@@ -5,7 +5,7 @@
 ## How to run the application
 
 1. In order to get this application up and running quickly, you will need to have docker run time installed on your computer. 
-2. Once you have a docker runtime installed, clone the repository to local computer and go to `Deployment` folder. 
+2. On a local computer where you have a docker runtime installed, clone this repository and go to `Deployment` folder. 
 3. Now, run the following docker commands one by one:<br />
    a) `docker build -t stockquote-webapp .`<br />
    b) `docker container run --name stockquote -dt -p 8091:8080 stockquote-webapp`<br />
