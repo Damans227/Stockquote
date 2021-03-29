@@ -12,3 +12,11 @@
 4. The application should be up and running now on the following `URL: http://localhost:8091/stockquote/`
 
  [Yahoo-Finance]: https://financequotes-api.com/
+
+ ## How to use Stockquote
+
+ 1. Click inside the text box on far left at the top of the page, where it says <i>'Enter ticker symbol'</i>.
+ 2.  Enter a valid ticker symbol, such as 'GOOG' and hit Search. 
+ 3.  You will see the current price of the stock under 'Stock Details' section. 
+ 4.  On the far right of stock details section, click on 'Quick History' in green color to view the historical data of the stock. 
+ 5. 
