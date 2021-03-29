@@ -47,3 +47,7 @@
  - Enterprise Java
  - JSP and Servlets
  - Docker container runtime
+
+## What the app looks like
+
+![image linear](https://github.com/Damans227/Stockquote/blob/main/Screenshots/homescreen.png =500x500)
