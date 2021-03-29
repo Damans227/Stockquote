@@ -28,6 +28,8 @@
 
  ## Features
 
- - A containerized application, which makes it easier to host the application quickly in a public or private cloud infrastructure. 
+ - A containerized application, that can be hosted quickly in no time in a public or private cloud infrastructure. 
  - Easy to understand code built following MVC design pattern. 
  - Simple and straightforward User Interface. 
+
+ ## Future features
